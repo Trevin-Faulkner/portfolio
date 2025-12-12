@@ -127,7 +127,7 @@ const DeveloperStats = () => (
             </a>
 
             {/* LinkedIn */}
-            <a href="https://linkedin.com/in/Trevin-Faulkner" target="_blank" rel="noopener noreferrer" className="icons linkedin group">
+            <a href="https://linkedin.com/in/trevin-faulkner-220092394" target="_blank" rel="noopener noreferrer" className="icons linkedin group">
               <span className="iconName">LinkedIn</span>
               <div className="icon link">
                 <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
